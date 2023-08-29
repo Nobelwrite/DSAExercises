@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c84f08da-8682-4ffb-ae42-bfdf9b9c3107" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DineshAlgorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DineshAlgorithm/ArrayAddAndUpdate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DineshAlgorithm/ConvertArrayToList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DineshAlgorithm/DineshAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DineshAlgorithm/PrintArrayElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DineshAlgorithm/SecondMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DineshAlgorithm/com/dineshalgorithm/ConvertArraytoNewList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DineshAlgorithm/com/dineshalgorithm/MinimumValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DineshAlgorithm/com/dineshalgorithm/OrderNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DineshAlgorithm/com/dineshalgorithm/PrintOddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DineshAlgorithm/com/dineshalgorithm/RemoveEvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DineshAlgorithm/com/dineshalgorithm/RevereArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
